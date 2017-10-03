@@ -1,0 +1,10 @@
+C:\Users\Michal\Desktop\Projekt\BSK\bin\Release\BSK.exe.config
+C:\Users\Michal\Desktop\Projekt\BSK\bin\Release\BSK.exe
+C:\Users\Michal\Desktop\Projekt\BSK\bin\Release\BSK.pdb
+C:\Users\Michal\Desktop\Projekt\BSK\obj\Release\BSK.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Desktop\Projekt\BSK\obj\Release\BSK.Propagacja.resources
+C:\Users\Michal\Desktop\Projekt\BSK\obj\Release\BSK.Properties.Resources.resources
+C:\Users\Michal\Desktop\Projekt\BSK\obj\Release\BSK.Wykresy.resources
+C:\Users\Michal\Desktop\Projekt\BSK\obj\Release\BSK.csproj.GenerateResource.Cache
+C:\Users\Michal\Desktop\Projekt\BSK\obj\Release\BSK.exe
+C:\Users\Michal\Desktop\Projekt\BSK\obj\Release\BSK.pdb
